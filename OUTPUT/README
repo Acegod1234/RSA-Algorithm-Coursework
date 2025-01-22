@@ -1,0 +1,5 @@
+In first screenshot of output, we can see that the entered number is not a prime number thus it shows "WRONG INPUT".
+Similarly, in second screenshot, we can see that the enetred number in secons pop-up is also a composite number thus again showing "WRONG INPUT" message.
+The program will not continue any futther if the "WRONG INPUT" message is shown.
+In the last screenshot, prime numbers are entered in both pop-ups and so the program runs.
+The message was enetred, it was encrypted and also decrypted with th help of provate key.
